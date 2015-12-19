@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PointWise</string>
+    <string name="set">Set</string>
+    <string name="producer_delay">Producer delay (milli)</string>
+    <string name="consumer_delay">Consumer delay (milli)</string>
+    <string name="no_num_error">only positive numbers allowed</string>
+    <string name="last">Last: %1$s</string>
+    <string name="size">Queue size: %1$d</string>
+</resources>
